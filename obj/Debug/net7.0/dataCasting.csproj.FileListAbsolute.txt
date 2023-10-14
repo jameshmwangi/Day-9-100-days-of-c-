@@ -1,0 +1,14 @@
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\dataCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\dataCasting.AssemblyInfoInputs.cache
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\dataCasting.AssemblyInfo.cs
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\dataCasting.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\GitHub\Day3\dataCasting\bin\Debug\net7.0\dataCasting.exe
+C:\Users\James\Documents\GitHub\Day3\dataCasting\bin\Debug\net7.0\dataCasting.deps.json
+C:\Users\James\Documents\GitHub\Day3\dataCasting\bin\Debug\net7.0\dataCasting.runtimeconfig.json
+C:\Users\James\Documents\GitHub\Day3\dataCasting\bin\Debug\net7.0\dataCasting.dll
+C:\Users\James\Documents\GitHub\Day3\dataCasting\bin\Debug\net7.0\dataCasting.pdb
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\dataCasting.dll
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\refint\dataCasting.dll
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\dataCasting.pdb
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\dataCasting.genruntimeconfig.cache
+C:\Users\James\Documents\GitHub\Day3\dataCasting\obj\Debug\net7.0\ref\dataCasting.dll
